@@ -19,14 +19,14 @@ TaskMaster is a straightforward and intuitive Todo App that helps you manage you
 
 2. Install dependencies:
 
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 3. Run the app:
 
-```bash
-npm start
-```
+    ```bash
+    npm start
+    ```
 Open http://localhost:3000 in your browser.
 
 ## Usage
@@ -51,7 +51,7 @@ Open http://localhost:3000 in your browser.
 
 - Experience a burst of joy with congratulatory messages when completing tasks.
 
-##Contributing
+## Contributing
 If you'd like to contribute to TaskMaster, please follow these steps:
 
 1. Fork the repository.
@@ -60,7 +60,7 @@ If you'd like to contribute to TaskMaster, please follow these steps:
 4. Push to the branch: git push origin feature-name.
 5. Submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License.
 
 Happy Tasking with Task-Trove! 🚀
