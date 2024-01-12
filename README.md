@@ -16,42 +16,4 @@ TaskMaster is a straightforward and intuitive Todo App that helps you manage you
 
    ```bash
    git clone https://github.com/Anurag-Mohan/Task-Trove
-Install dependencies:
 
-bash
-Copy code
-npm install
-Run the app:
-
-bash
-Copy code
-npm start
-Open http://localhost:3000 in your browser.
-
-
-
-Usage
-Add a Todo:
-
-Type your task in the "Todo..." input field.
-Optionally, select a deadline using the "Select Deadline" button.
-View Todos:
-
-All your todos are displayed in a list below the input section.
-Delete a Todo:
-
-Click the "Done" button to delete a completed task.
-Calendar for Deadlines:
-
-Use the calendar to easily pick a deadline for your tasks.
-Congratulatory Messages:
-
-Experience a burst of joy with congratulatory messages when completing tasks.
-Contributing
-If you'd like to contribute to TaskMaster, please follow these steps:
-
-Fork the repository.
-Create a new branch for your feature: 'git checkout -b feature-name'.
-Commit your changes: 'git commit -m 'Add new feature''.
-Push to the branch: 'git push origin feature-name'.
-Submit a pull request.
