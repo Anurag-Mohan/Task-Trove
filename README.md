@@ -16,13 +16,18 @@ TaskMaster is a straightforward and intuitive Todo App that helps you manage you
 
    ```bash
    git clone https://github.com/Anurag-Mohan/Task-Trove
+   ```
+2. Changing directory
 
-2. Install dependencies:
+   ```bash
+   cd Task-Trove
+   ```
+3. Install dependencies:
 
    ```bash
    npm install
    ```
-3. Run the app:
+4. Run the app:
 
     ```bash
     npm start
