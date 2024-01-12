@@ -32,24 +32,24 @@ Open http://localhost:3000 in your browser.
 ## Usage
 1. ###Add a Todo:
 
-Type your task in the "Todo..." input field.
-Optionally, select a deadline using the "Select Deadline" button.
+- Type your task in the "Todo..." input field.
+- Optionally, select a deadline using the "Select Deadline" button.
 
 2. ###View Todos:
 
-All your todos are displayed in a list below the input section.
+- All your todos are displayed in a list below the input section.
 
 3. ###Delete a Todo:
 
-Click the "Done" button to delete a completed task.
+- Click the "Done" button to delete a completed task.
 
 4. ###Calendar for Deadlines:
 
-Use the calendar to easily pick a deadline for your tasks.
+- Use the calendar to easily pick a deadline for your tasks.
 
 5. ###Congratulatory Messages:
 
-Experience a burst of joy with congratulatory messages when completing tasks.
+- Experience a burst of joy with congratulatory messages when completing tasks.
 
 ##Contributing
 If you'd like to contribute to TaskMaster, please follow these steps:
